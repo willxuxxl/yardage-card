@@ -66,3 +66,43 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* Custom styles for YardageCardMobile */
+@media (max-width: 600px) {
+  table {
+    font-size: 12px;
+  }
+  th, td {
+    padding: 0.3em 0.2em;
+  }
+}
+
+/* Make table horizontally scrollable on mobile */
+.overflow-x-auto {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Thicker table borders and rounded corners */
+table {
+  border-radius: 12px;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+}
+th, td {
+  border-width: 2px !important;
+}
+
+/* Vibrant yellow for CARRY and TOTAL */
+.bg-vibrant-yellow {
+  background: #fff700 !important;
+}
+
+/* Input field tweaks for mobile */
+td input {
+  font-size: 1em;
+  padding: 0.2em 0.1em;
+  background: transparent;
+  border: none;
+  outline: none;
+}
