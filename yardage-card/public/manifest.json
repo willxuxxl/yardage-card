@@ -6,10 +6,7 @@
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
   "description": "A mobile-friendly golf yardage card app.",
-<<<<<<< HEAD
   "version": "2",
-=======
->>>>>>> 2e29799594c271cea7e9e671c318e46ad15b9f12
   "icons": [
     {
       "src": "/pwa-icon-192.png",
@@ -21,10 +18,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-<<<<<<< HEAD
   ]
-=======
-  ],
-  "version": "2"
->>>>>>> 2e29799594c271cea7e9e671c318e46ad15b9f12
 } 

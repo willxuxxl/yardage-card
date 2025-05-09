@@ -138,8 +138,4 @@ export default function YardageCardMobile() {
       </div>
     </div>
   );
-<<<<<<< HEAD
 } 
-=======
-}
->>>>>>> 2e29799594c271cea7e9e671c318e46ad15b9f12
